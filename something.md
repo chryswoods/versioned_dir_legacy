@@ -1,8 +1,6 @@
 Committing Changes
 Let’s take a look again at the output of git status.
 
-Added a new line of text
-
 # On branch master
 #
 # Initial commit
