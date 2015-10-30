@@ -1,9 +1,8 @@
-****
-Versioned Directory
-****
 
-.. image:: https://travis-ci.org/chryswoods/versioned_dir.svg?branch=autobuild_feature
-   :target: https://travis-ci.org/chryswoods/versioned_dir
+# Versioned Directory
+
+[ ![Travis Build Status](https://travis-ci.org/chryswoods/versioned_dir.svg?branch=autobuild_feature) ]
+(https://travis-ci.org/chryswoods/versioned_dir)
 
 # Hello Brilliant, Useful GitHub
 
