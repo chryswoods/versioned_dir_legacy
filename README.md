@@ -1,3 +1,10 @@
+****
+Versioned Directory
+****
+
+.. image:: https://travis-ci.org/chryswoods/versioned_dir.svg?branch=autobuild_feature
+   :target: https://travis-ci.org/chryswoods/versioned_dir
+
 # Hello Brilliant, Useful GitHub
 
 This is a README.md file that will be used to describe this
