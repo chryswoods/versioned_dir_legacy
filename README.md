@@ -1,7 +1,7 @@
 
 # Versioned Directory
 
-Cows go moo
+Calves go moo
 
 # Hello Brilliant, Useful GitHub
 
