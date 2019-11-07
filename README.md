@@ -1,7 +1,7 @@
 
 # Versioned Directory
 
-Calves go moo, kittens go meow
+Calves go moo, cats go meow
 
 # Hello Brilliant, Useful GitHub
 
