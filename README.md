@@ -3,7 +3,7 @@ They have cute paws
 When they get angry
 They bring out their claws
 
-kittens play toys
+kittens play with toys
 They make lots of noise...
 kittens are white
 they like to fight
