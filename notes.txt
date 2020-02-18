@@ -1,0 +1,56 @@
+https://chryswoods.com/beginning_git
+
+Start | PuTTY (64bit) | PuTTY
+
+hostname: bluecrystalp3.acrc.bris.ac.uk
+username: train??
+password: workshop
+
+module load tools/git-2.22.0
+
+https://is.gd/acrc20a
+
+
+ask-rse@bristol.ac.uk
+
+
+
+
+git init = start VC in a directory
+git status = show the status of versions
+git add = add a file to be version controlled
+git commit -a = commit a new version of the directory
+git diff = show the differences in the files
+git log = shows the log of all changes
+git checkout VERSION = checkout that version
+git checkout master = return to latest version
+git push = push .git changes to cloud (github)
+git pull = pull .git changes from cloud (github)
+git clone = copy (clone) repository from cloud (github)
+
+
+master  O--O--O--O--O--O
+        | \			Repository
+ fred   |  O--O
+        \
+ jane    O--O
+
+           HEAD (your computer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
