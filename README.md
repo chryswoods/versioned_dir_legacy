@@ -1,10 +1,10 @@
-cats go meow meow
+kittens go meow meow
 They have cute paws
 When they get angry
 They bring out their claws
 
-cats play with toys
+kittens play with toys
 They make lots of noise...
-cats are white
+kittens are white
 they like to fight
 
