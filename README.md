@@ -1,19 +1,8 @@
+Kittens go meow
+They have cute paws
+When they get angry
+They bring out their claws
 
-# Versioned Directory
+Kittens play ball
+They make lots of noise...
 
-Calves go moo, cats go mieow, fish go bubble
-
-# Hello Brilliant, Useful GitHub
-
-This is a README.md file that will be used to describe this
-repository on GitHub
-
-This is a much improved introduction that includes a 
-new list of items
-
-* Item 1
-* Item 2
-* Item 3
-
-This is an extra line of text added to the copy 
-of README.md in the cloned repository
