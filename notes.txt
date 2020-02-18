@@ -4,7 +4,7 @@ Start | PuTTY (64bit) | PuTTY
 
 hostname: bluecrystalp3.acrc.bris.ac.uk
 username: train??
-password: workshop
+password:
 
 module load tools/git-2.22.0
 
