@@ -11,3 +11,5 @@ they like to fight
 kittens sleep soundly,
 they have cute noses,
 
+They scare rats away,
+All night all day
