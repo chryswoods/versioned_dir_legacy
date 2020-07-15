@@ -15,7 +15,7 @@ They scare rats away,
 All night all day
 
 They ate my tuna and they sway,
-But tigers are better anyway
+But tiger cubs are better anyway
 They have black and orange stripes,
 And get lots of likes,
 
