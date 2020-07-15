@@ -13,3 +13,7 @@ they have cute noses,
 
 They scare rats away,
 All night all day
+
+They ate my tuna and they sway,
+But dogs are better anyway
+
