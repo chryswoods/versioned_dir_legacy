@@ -16,4 +16,6 @@ All night all day
 
 They ate my tuna and they sway,
 But tigers are better anyway
+They have black and orange stripes,
+And get lots of likes,
 
