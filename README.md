@@ -15,7 +15,7 @@ They scare rats away,
 All night all day
 
 They ate my tuna and they sway,
-But tigers are better anyway
-They have black and orange stripes,
-And get lots of likes,
+But lions are better anyway
+They have flowing manes,
+And get lots of fame,
 
