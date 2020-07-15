@@ -14,11 +14,5 @@ they have cute noses,
 They scare rats away,
 All night all day
 
-They ate my tuna and they sway,
-But tiger cubs are better anyway,
-They have black and orange stripes,
-And get lots of likes,
-
-Tigers live in the wild,
-They scare my child
+Please use lions
 
